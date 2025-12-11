@@ -5,7 +5,7 @@
       {{ error }}
     </div>
     <div>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi amet quae laudantium ex porro alias esse aliquid sed dolores, facere possimus nemo culpa corrupti sequi quas quaerat velit nam doloribus.
+      HI
     </div>
   </div>
 </template>
