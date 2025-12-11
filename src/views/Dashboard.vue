@@ -14,7 +14,8 @@
 </script>
 
 <style scoped>
-.server-list-area {
-  padding: 20px;
+.welcome {
+  font-size: 24px;
+  margin-bottom: 20px;
 }
 </style>
