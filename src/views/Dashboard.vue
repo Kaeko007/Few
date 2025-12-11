@@ -17,5 +17,6 @@
 .welcome {
   font-size: 24px;
   margin-bottom: 20px;
+  color: black;
 }
 </style>
