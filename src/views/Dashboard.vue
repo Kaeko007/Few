@@ -14,4 +14,7 @@
 </script>
 
 <style scoped>
+.server-list-area {
+  padding: 20px;
+}
 </style>
